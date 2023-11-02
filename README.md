@@ -1,6 +1,6 @@
 # digital-medical-scribes
 
-HealthScribe is an advanced digital medical scribe software application that utilizes state-of-the-art natural language processing (NLP) and machine learning algorithms to create a summary of the conversation taking place between a patient and a doctor during a medical visit.
+Digital Medical Scribe (DMS) is an advanced digital medical scribe software application that utilizes state-of-the-art natural language processing (NLP) and machine learning algorithms to create a summary of the conversation taking place between a patient and a doctor during a medical visit.
 
 HealthScribe is designed to assist healthcare providers by automating the documentation process, reducing administrative burden, and allowing doctors to focus on delivering care to their patients. HealthScribe captures the conversation between the doctor and the patient and creates a summary that includes the key medical information discussed during the visit.
 
